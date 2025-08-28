@@ -7,11 +7,11 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put your session-id here.",
+      "description": "wzEHgARa#C8K7eFXAgOwGQ-EA4HRiWXWN4L4p4lhes520X4ncDQA",
       "required": true
     },
     "OWNER_NUM": {
-      "description": "Your WhatsApp number including country code (e.g., 263XXXXXXXX).",
+      "description": "2347046970033",
       "required": true
     },
     "PREFIX": {
